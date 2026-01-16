@@ -1,0 +1,4 @@
+accuracy,precision,recall,precision_per_accuracy
+95,91,92,0.9578947368421052
+4,5,60,1.25
+87,78,80,0.896551724137931
